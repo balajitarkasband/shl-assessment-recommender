@@ -1,7 +1,8 @@
 fastapi
 uvicorn
 faiss-cpu
-torch==2.2.2sentence-transformers==2.7.0
+torch==2.2.2
+sentence-transformers==2.7.0
 google-generativeai
 beautifulsoup4
 requests
